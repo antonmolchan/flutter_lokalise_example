@@ -1,0 +1,3 @@
+output-class: AuthLocalizations
+output-localization-file: auth_localizations.dart
+arb-dir: lib/l10n

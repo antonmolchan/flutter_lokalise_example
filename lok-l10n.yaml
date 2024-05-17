@@ -1,0 +1,4 @@
+output-class: CommonLocalizations
+output-localization-file: common_localizations.dart
+arb-dir: lib/l10n
+#output-dir: lib/l10n/custom
